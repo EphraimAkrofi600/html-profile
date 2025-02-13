@@ -1,0 +1,32 @@
+
+  
+html{
+    background-color: black;
+    font-family: "Libre Baskerville", serif;
+
+}
+
+#ephraim{
+   border: 5px solid white;
+   margin-left: 25%;
+   width: 50%;
+   margin-top: 150px;
+   
+}
+
+#Para{
+    color: white;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+*{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
